@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nytreactapp/precache-manifest.541964d98900cc874a82d987d1703bc3.js"
+  "/nytreactapp/precache-manifest.777058e1878f650fbe0f77ff18827c26.js"
 );
 
 workbox.clientsClaim();
